@@ -14,7 +14,7 @@ about:
 source:
   project: https://github.com/teamwork/mcp
   branch: main
-  commit: 9e26e66a0592c56065b22a9507c460f9c05be277
+  commit: f5441cd71f36e0db5bea2f3cf48205cc6ac79040
 config:
   description: Configure the connection to Teamwork.com MCP server
   secrets:
